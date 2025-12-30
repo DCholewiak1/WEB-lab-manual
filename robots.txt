@@ -1,1 +1,1 @@
-Sitemap: https://thefaylab.github.io/lab-manual/sitemap.xml
+Sitemap: https://dcholewiak1.github.io/WEB-lab-manual/sitemap.xml
