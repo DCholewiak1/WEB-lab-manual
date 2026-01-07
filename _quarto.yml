@@ -10,7 +10,7 @@ book:
   
   page-footer:
     left: |
-      <a href="http://www.smast.umassd.edu/lab_fay/">The Fay lab</a>
+      <a href="https://www.fisheries.noaa.gov/new-england-mid-atlantic/about-us/protected-species-research-northeast">The Protected Species Division</a>
     right: |
       This book was built with <a href="https://quarto.org/">Quarto</a>.
   site-url: https://dcholewiak1.github.io/WEB-lab-manual/
@@ -25,12 +25,9 @@ book:
     - 04-onboarding.qmd
     - 05-expectations.qmd
     - 06-offboarding.qmd
-    - 07-funding.qmd
     - 08-communication.qmd
-    - 09-academics.qmd
-    - 10-courses.qmd
     - 11-computing.qmd
-    - 12-umassd-resources.qmd
+    - 12-nefsc-resources.qmd
 #    - 13-smast-resources.qmd
 #    - 14-other-faylab-resources.qmd  
 
