@@ -25,7 +25,9 @@ book:
     - 04-onboarding.qmd
     - 05-expectations.qmd
     - 06-offboarding.qmd
-    - 08-communication.qmd
+    - 07-small_boat_work.qmd
+    - 08-aerial_surveys.qmd
+    - 09-communication.qmd
     - 11-computing.qmd
     - 12-nefsc-resources.qmd
 #    - 13-smast-resources.qmd
