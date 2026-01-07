@@ -1,24 +1,23 @@
 
 # Welcome to the Whale Ecology Branch!
 
-![](img/Gemini.Generated.Image.png)
+![](img/Gemini_Generated_Image.png)
 
 Welcome to the WEB hive mind. 
 
-This is the lab manual for the Whale Ecology Branch at the Northeast Fisheries Science Center. We are part of the Protected Species Division at the NEFSC, primarily based out of the lab in Woods Hole, MA (though some team members are more far flung than that). 
+This is the lab manual for the Whale Ecology Branch. We are part of the Protected Species Division at the Northeast Fisheries Science Center, primarily based out of the lab in Woods Hole, MA (though some team members are more far flung than that). 
 
-The focus of our work centers around monitoring the distribution, abudance, and ecological relationships for protected large whale species in the northwest Atlantic Ocean.  More about our group's research activity can be found on our [website](https://www.fisheries.noaa.gov/new-england-mid-atlantic/about-us/protected-species-research-northeast){target="_blank"}.
+Our work focuses on monitoring the distribution, abudance, ecological relationships and anthropogenic risks for protected large whale species in the northwest Atlantic Ocean.  More about our group's research activity can be found on our [website](https://www.fisheries.noaa.gov/new-england-mid-atlantic/about-us/protected-species-research-northeast){target="_blank"}.
 
-This lab manual resource is intended to provide an overview for branch members and others about how we do our work, and our expectations for our team. It is also a space to document institutional knowledge and for important information about procedures and available resources. If you have suggestions for additions or changes, please contact [Dani] (danielle.cholewiak@noaa.gov), Beth or others on the team. 
+This lab manual resource is intended to provide an overview for branch members and others about how we do our work, and our expectations for our team. It is also a space to document institutional knowledge and for important information about procedures and available resources. If you have suggestions for additions or changes, please contact [Dani] (mailto:danielle.cholewiak@noaa.gov), Beth or others on the team. 
 
 <br>
-
+------------------------------------------------------------------------
 The content for this book was developed as part of our group's participation in the [Openscapes Champions program](https://openscapes.org){target="_blank"}. We are extremely grateful to [Dr. Julia Stewart Lowndes](https://www.linkedin.com/in/julia-stewart-lowndes/){target="_blank"}' for her role in helping shape how we can use open science tools to improve our science and our communication. 🙌\
 
 [![](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png){fig-align="left" width="35px"}](https://github.com/thefaylab/lab-manual){target="_blank"} \< link to this book's GitHub repository. Also see [Quick steps to making a copy of the lab manual and publishing it](https://github.com/thefaylab/lab-manual/wiki/Quick-steps-to-making-a-copy-of-the-lab-manual-&-publishing-it){target="_blank"}!
 
 ![](img/openscapes_hex_badge.png){width="15%"}
-
 [*We're proud Openscapes Champions!*](https://openscapes.org){target="_blank"}
 
 ------------------------------------------------------------------------
