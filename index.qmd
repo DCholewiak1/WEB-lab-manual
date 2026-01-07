@@ -1,5 +1,7 @@
 # Welcome to the Whale Ecology Branch!
 
+<img align="right" height="250" src="https://www.fisheries.noaa.gov/s3//styles/full_width/s3/2023-01/2000x1333-Protected-Species-Research-infographic-NEFSC.png?itok=B5L_i2XX">
+
 Welcome to our book of magical secrets.
 
 <br> This is the lab manual for the PSD Whale Ecology Lab at the Northeast Fisheries Science Center\
