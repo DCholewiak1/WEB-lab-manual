@@ -1,9 +1,10 @@
 # Welcome to the Whale Ecology Branch!
 
-<img align="right" height="250" src="https://www.fisheries.noaa.gov/s3//styles/full_width/s3/2023-01/2000x1333-Protected-Species-Research-infographic-NEFSC.png?itok=B5L_i2XX">
-<img align="right" height="250" src="C:\Users\danielle.cholewiak\Pictures\2000x1333-Protected-Species-Research-infographic-NEFSC.png">
 
-Welcome to our book of magical secrets.
+<img align="right" height="250" src="C:\Users\danielle.cholewiak\Pictures\2000x1333-Protected-Species-Research-infographic-NEFSC.png">
+<img align="left" height="250" src="C:\Users\danielle.cholewiak\Pictures\Gemini_Generated_Image_jov4kdjov4kdjov4.png">
+
+<br> Welcome to our book of magical secrets.
 
 <br> This is the lab manual for the PSD Whale Ecology Lab at the Northeast Fisheries Science Center\
 The focus of our work centers around developing interdisciplinary modeling approaches to extend the scope of applications for fisheries and ecosystem-based management. More about our group's research activity can be found on our [website](http://www.smast.umassd.edu/lab_fay/){target="_blank"}.
