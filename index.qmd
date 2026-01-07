@@ -1,7 +1,5 @@
 
-# Welcome to the Whale Ecology Branch!
-
-![](img/Gemini_Generated_Image.png){width="15%"}
+# Welcome to the Whale Ecology Branch! ![](img/Gemini_Generated_Image.png){width="25%"}
 
 Welcome to the WEB hive mind. 
 
