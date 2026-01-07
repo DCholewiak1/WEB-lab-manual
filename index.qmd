@@ -1,7 +1,7 @@
 
-# Welcome to the NEFSC's Whale Ecology Branch!
+# Welcome to the Whale Ecology Branch!
 
-<img align="center" height="250" src="https://www.fisheries.noaa.gov/s3//styles/full_width/s3/2023-01/2000x1333-Protected-Species-Research-infographic-NEFSC.png">
+![](img/Gemini.Generated.Image.png)
 
 Welcome to the WEB hive mind. 
 
