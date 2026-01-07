@@ -12,12 +12,11 @@ See the next chapter for more detail on our lab culture and philosophy. We are m
 - Our path to better science in less time using open data science tools [@lowndes2017]
 - Good enough practices in scientific computing [@wilson2017]
 
-\[To come: recommended reading list\]
-
 ## How we meet
 
-Currently, we meet virtually by Zoom for weekly lab meetings and individual meetings with Gavin. In previous years, we have met for Shut Up and Write sessions to practice and make progress on our writing. More recently, writing workshops have taken place during some of our lab meetings.\
-We use Googledocs to set agendas, record decisions made, and outline action items during meetings. Each lab member has their own google doc for their 1:1 meetings with Gavin. Prior to each meeting, create your agenda for that meeting there.
+Currently, we meet biweekly for a hybrid branch meeting on Tuesdays at 9:30am ET.  For those who are at the lab in person, we typically meet in the Albatross Room on the second floor. All branch members are encouraged to attend whenever possible.  
+We use Google docs to set up our agenda, take meeting notes, and outline action items during meetings. Team members are welcome to contribute to the meeting agenda, add their own notes and updates, and make other changes as needed. 
+One-on-one meetings and smaller team meetings are also encouraged whenever they are useful. Some team members hold regular (weekly or biweekly) check-ins with Dani; others do so more sporadically. We are flexible! 
 
 ## How we give feedback
 
