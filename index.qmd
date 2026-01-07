@@ -1,7 +1,7 @@
 
 # Welcome to the NEFSC's Whale Ecology Branch!
 
-<img align="center" height="250" src="https://www.fisheries.noaa.gov/new-england-mid-atlantic/about-us/protected-species-research-northeast">
+<img align="center" height="250" src="https://www.fisheries.noaa.gov/s3//styles/full_width/s3/2023-01/2000x1333-Protected-Species-Research-infographic-NEFSC.png">
 
 Welcome to the WEB hive mind. 
 
