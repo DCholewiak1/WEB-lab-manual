@@ -1,6 +1,6 @@
-# UMass Dartmouth, SMAST, and Fay Lab Resources {#umassd-resources}
+# NEFSC Lab Resources {#umassd-resources}
 
-## General information about UMass Dartmouth and SMAST
+## General information about the Northeast Fisheries Science Center
 
 The SMAST [directory](https://www.umassd.edu/smast/about/directory/) lists all faculty and staff across both departments (DEOS & DFO). This is not updated frequently but may help you in locating a specific person and their contact information.
 
