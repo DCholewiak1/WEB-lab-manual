@@ -6,7 +6,7 @@ book:
   title: "PSD Whale Ecology Branch Lab Manual"
   author: "Danielle Cholewiak & WEB members"
   date: last-modified 
-  description: "This is the lab manual for the WEB Lab at the " 
+  description: "This is the lab manual for the WEB Lab at the NEFSC" 
   
   page-footer:
     left: |
@@ -28,7 +28,6 @@ book:
     - 08-aerial_surveys.qmd
     - 09-communication.qmd
     - 10-GAIA.qmd
-  #  - 11-computing.qmd
     - 13-Publications.qmd
     - 12-nefsc-resources.qmd
     - 06-offboarding.qmd
