@@ -20,16 +20,18 @@ book:
   chapters: 
     - index.qmd
     - 01-intro-how-we-work.qmd
-    - 02-lab-culture-philosophy.qmd
+ #   - 02-lab-culture-philosophy.qmd
  #   - 03-code-of-conduct.qmd
     - 04-onboarding.qmd
     - 05-expectations.qmd
     - 07-small_boat_work.qmd
     - 08-aerial_surveys.qmd
     - 09-communication.qmd
-    - 11-computing.qmd
-    - 06-offboarding.qmd
+    - 10-GAIA.qmd
+  #  - 11-computing.qmd
+    - 13-Publications.qmd
     - 12-nefsc-resources.qmd
+    - 06-offboarding.qmd
 #    - 13-smast-resources.qmd
 #    - 14-other-faylab-resources.qmd  
 
