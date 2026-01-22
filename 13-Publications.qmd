@@ -1,13 +1,17 @@
 # WEB Scientific Publications
 
-2026
-
-Southall BL, Schick RS, Cioffi WR, DeRuiter SL, Foley HJ, Harris CM, Harshbarger AE, Joseph JE, Margolina T, Nowacek DP, Quick NJ. 2026. [Behavioral responses of goose-beaked whales (Ziphius cavirostris) to simulated military sonar](https://doi.org/10.1002/ecs2.70501). Ecosphere. https://doi.org/10.1002/ecs2.70501
+##2026
+Brusa et al (in press). 
 
 Frasier TR, Frasier BA, Radvan SN, Brown MW, Hamilton PK, Conger LA, George RC, Jackson KA, Kraus SD. 2026. [Pedigree-Informed Abundance Estimation for the Endangered North Atlantic Right Whale (Eubalaena glacialis) via Gametic Mark-Recapture](https://doi.org/10.1111/mms.70122). Marine Mammal Science 42(1):e70122. https://doi.org/10.1111/mms.70122
 
-2025 Linden D. 2025. [Using known births to account for delayed marking in population estimation of North Atlantic right whales](https://onlinelibrary.wiley.com/doi/10.1002/ece3.71035). Ecology and Evolution.
+Southall BL, Schick RS, Cioffi WR, DeRuiter SL, Foley HJ, Harris CM, Harshbarger AE, Joseph JE, Margolina T, Nowacek DP, Quick NJ. 2026. [Behavioral responses of goose-beaked whales (Ziphius cavirostris) to simulated military sonar](https://doi.org/10.1002/ecs2.70501). Ecosphere. https://doi.org/10.1002/ecs2.70501
 
-2024
 
-2023
+##2025 
+
+Linden D. 2025. [Using known births to account for delayed marking in population estimation of North Atlantic right whales](https://onlinelibrary.wiley.com/doi/10.1002/ece3.71035). Ecology and Evolution.
+
+##2024
+
+##2023
