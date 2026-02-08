@@ -20,11 +20,10 @@ One-on-one meetings and smaller team meetings are also encouraged whenever they 
 
 ## How we give feedback
 
-Feedback, both giving and receiving it, is an important aspect of our lab. Most of the feedback we give and receive is when giving and attending practice talks. We expect feedback to be supportive but constructive.
+Feedback, both giving and receiving it, is an important aspect of how we work. 
+...
 
-This [resource from UBC](https://scwrl.ubc.ca/student-resources/learning-strategies-for-communicating-science/how-to-give-and-receive-effective-feedback/) does a really great job of outlining the main points of how to give and receive feedback.
-
-## How we share things (and send them to Gavin)
+## How we share things
 
 We think it is useful to have standard ways of sharing things. These don't always have to be followed but are a useful guide and will make things easier. When sending material to someone, always make sure to describe what you are sending and try to make it as easy as possible for them to help you.
 
