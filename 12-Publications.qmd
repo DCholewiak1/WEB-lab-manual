@@ -1,6 +1,6 @@
 # WEB Scientific Publications
 
-## 2026
+# 2026
 Brusa et al (in press). 
 
 Frasier TR, Frasier BA, Radvan SN, Brown MW, Hamilton PK, Conger LA, George RC, Jackson KA, Kraus SD. 2026. [Pedigree-Informed Abundance Estimation for the Endangered North Atlantic Right Whale (Eubalaena glacialis) via Gametic Mark-Recapture](https://doi.org/10.1111/mms.70122). Marine Mammal Science 42(1):e70122. https://doi.org/10.1111/mms.70122

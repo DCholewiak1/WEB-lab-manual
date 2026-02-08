@@ -6,7 +6,7 @@ book:
   title: "PSD Whale Ecology Branch Lab Manual"
   author: "Danielle Cholewiak & WEB members"
   date: last-modified 
-  description: "This is the lab manual for the WEB Lab at the NEFSC" 
+  description: "This is the branch manual for the WEB Lab at the NEFSC" 
   
   page-footer:
     left: |
@@ -22,14 +22,18 @@ book:
     - 01-intro-how-we-work.qmd
  #   - 03-code-of-conduct.qmd
     - 04-onboarding.qmd
-    - 05-expectations.qmd
+    - 05-expectations-communication.qmd
     - 07-small_boat_work.qmd
     - 08-aerial_surveys.qmd
-    - 10-GAIA.qmd
-    - 14-mortality_serious_injury.qmd
-    - 13-Publications.qmd
-    - 12-nefsc-resources.qmd
-    - 06-offboarding.qmd
+    - 09-mortality_serious_injury.qmd
+    - 10-population & ecological modeling.qmd
+    - 11-GAIA.qmd
+    - 12-Publications.qmd
+    - 13-nefsc-resources.qmd
+    
+    - 20-offboarding.qmd
+    
+    
 #    - 09-communication.qmd
 #   - 02-lab-culture-philosophy.qmd
 #    - 13-smast-resources.qmd
