@@ -24,17 +24,17 @@
     "href": "01-intro-how-we-work.html#how-we-give-feedback",
     "title": "2  Introduction",
     "section": "2.2 How we give feedback",
-    "text": "2.2 How we give feedback\nFeedback, both giving and receiving it, is an important aspect of our lab. Most of the feedback we give and receive is when giving and attending practice talks. We expect feedback to be supportive but constructive.\nThis resource from UBC does a really great job of outlining the main points of how to give and receive feedback.",
+    "text": "2.2 How we give feedback\nFeedback, both giving and receiving it, is an important aspect of how we work. …",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introduction</span>"
     ]
   },
   {
-    "objectID": "01-intro-how-we-work.html#how-we-share-things-and-send-them-to-gavin",
-    "href": "01-intro-how-we-work.html#how-we-share-things-and-send-them-to-gavin",
+    "objectID": "01-intro-how-we-work.html#how-we-share-things",
+    "href": "01-intro-how-we-work.html#how-we-share-things",
     "title": "2  Introduction",
-    "section": "2.3 How we share things (and send them to Gavin)",
-    "text": "2.3 How we share things (and send them to Gavin)\nWe think it is useful to have standard ways of sharing things. These don’t always have to be followed but are a useful guide and will make things easier. When sending material to someone, always make sure to describe what you are sending and try to make it as easy as possible for them to help you.\nTaking a project-based approach to organizing your work makes it easier to share and solicit feedback from others, as things tend to be self-contained. Try to keep only 1 working instance of material, and use some form of version control to facilitate this (see recommendations in Wilson et. al paper linked above).\nProject management tools in Github are a good way to record and document questions on analyses. Use ‘Issues’ on github repositories for project-related tasks and problems. Alternatively, make use of a GoogleDoc for each project to record this history, much like you would a lab notebook.\nCode: can be shared via Github repositories, or via a dedicated Google Drive folder. For specific questions on problems, please try to create a minimal reproducible example. Ensure that others can run and interact with the material being shared.\nWriting: Preferably via GoogleDoc, R Markdown, or Overleaf, but MS Word documents can also be shared. Google docs are particularly useful for collaborative writing, and have the advantage of there only ever being one version (as opposed to files that are sent around via email). Word documents should always have your last name as the first part of the file name (e.g. please no “mythesis.doc”).\nWe also share our institutional knowledge through our lab-chat github ‘issues’ repository. This is a community-driven troubleshooting resource, please contribute!\nWe maintain a lab Google Drive folder for lab publications, presentations, photos, CVs, etc. Please make use of these so that others in the lab can make fair use of our work.",
+    "section": "2.3 How we share things",
+    "text": "2.3 How we share things\nWe think it is useful to have standard ways of sharing things. These don’t always have to be followed but are a useful guide and will make things easier. When sending material to someone, always make sure to describe what you are sending and try to make it as easy as possible for them to help you.\nTaking a project-based approach to organizing your work makes it easier to share and solicit feedback from others, as things tend to be self-contained. Try to keep only 1 working instance of material, and use some form of version control to facilitate this (see recommendations in Wilson et. al paper linked above).\nProject management tools in Github are a good way to record and document questions on analyses. Use ‘Issues’ on github repositories for project-related tasks and problems. Alternatively, make use of a GoogleDoc for each project to record this history, much like you would a lab notebook.\nCode: can be shared via Github repositories, or via a dedicated Google Drive folder. For specific questions on problems, please try to create a minimal reproducible example. Ensure that others can run and interact with the material being shared.\nWriting: Preferably via GoogleDoc, R Markdown, or Overleaf, but MS Word documents can also be shared. Google docs are particularly useful for collaborative writing, and have the advantage of there only ever being one version (as opposed to files that are sent around via email). Word documents should always have your last name as the first part of the file name (e.g. please no “mythesis.doc”).\nWe also share our institutional knowledge through our lab-chat github ‘issues’ repository. This is a community-driven troubleshooting resource, please contribute!\nWe maintain a lab Google Drive folder for lab publications, presentations, photos, CVs, etc. Please make use of these so that others in the lab can make fair use of our work.",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introduction</span>"
     ]
@@ -112,91 +112,111 @@
   {
     "objectID": "05-expectations.html",
     "href": "05-expectations.html",
-    "title": "4  Expectations",
+    "title": "4  Expectations & Communication",
     "section": "",
-    "text": "4.1 Working hours\nIn addition to agreeing to follow our communities codes of conduct and the university academic integrity policy, we expect everyone in the group to echo our lab culture (Chapter @ref(culture)).\nIndividual mentoring plans: Gavin will work with each of you to develop your individual mentoring plan that serves to ensure your time in the Fay lab progresses your short, medium, and long-term goals. This is a useful planning document that assists in aligning expectations. Graduate students will revisit the mentoring plan during an individual meeting with Gavin at the beginning of each semester & the start of summer. Other lab members will revisit these at appropriate time scales (e.g. every 6 months).\nA template for these, with thanks to @duffy_ma can be found here.\nIn addition, it is useful to have broad (for all lab members) and specific (i.e., grad students, research staff, etc.) expectations of our roles clarified. These are outlined below.\nGavin generally does not hold people to working a fixed schedule, or to be in the office for a certain schedule. As adults, we should all set the working schedule that is the right fit for us, and it is likely that what this ‘fit’ is will change over the course of the time you are in the lab. Depending on the nature of your appointment, there may be specific hours that will need to be worked and you should work with your main collaborator to outline these.\nGavin generally does not work evenings or on weekends, and does not expect that people in the lab are available at these times. Lab members should also not expect others to be available during these times.\nGraduate students are generally funded on annual research assistantship (RA) stipends. The RA contracts state that this stipend is for 20 hrs of work per week during the academic year and 40 hrs per week during summer to support full time study in the academic program. Most usually, students on RAships are being paid from a research grant where the focus of the grant is the topic the student is working on for their thesis research, so there is overlap here. We believe that training to do the research is part of the job, so this would include courses and additional time to read/learn methods, software too. Some people find that counting ‘billable hours’ is productive for them as it helps them keep accountable to themselves. Others do not find this method useful. Regularly assess what works best for you.\nFull time is enough, and we do not expect team members to work nights and weekends, though do not enforce a particular working hours schedule because students should feel flexible enough to create a work schedule that works for them. Lab members should not expect others to be available during evenings and weekends. There is value to interacting with others as part of your work, and we do expect you will be available during normal working hours for at least some of the time during the week. We also recognize that there will occasionally be times where there is a need to work more to meet a deadline, but this should be the exception - an expectation of overwork is not to be normalized.",
+    "text": "5 Communication\nAcknowledge communication and engage with others about your work. This includes communication with the lab team, your peers, collaborators, and also communicating your work to others.\nIf someone works on something for you or provides you with feedback on your work, thank them and engage with them on their feedback. Our science improves by engaging with conversations about your work. View such interactions as opportunities to be collaborative rather than evaluative. Chances are if someone asks you questions about your work it is because they are interested in your science.\nAcknowledging communication and thanking others for their work is part of the profession, and it also helps collaboration by continuing conversation.\nWhile our philosophy applies, in that you shouldn’t feel like you have to be on email all the time, don’t let you email inbox become a black hole where questions / thoughts get sucked into and no response emerges.\nWe also believe in being intentional in communicating our work. While publishing and conference presentations are thought of as the standard forms in which science is disseminated, there are a number of ways in which you can communicate your work with others, depending on your audiences and chosen levels of engagement. You should always invest in these at the level that is of interest to you. Here are some things we recommend as members of our team.",
     "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Expectations</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Expectations & Communication</span>"
+    ]
+  },
+  {
+    "objectID": "05-expectations.html#inclusive-science-communication",
+    "href": "05-expectations.html#inclusive-science-communication",
+    "title": "4  Expectations & Communication",
+    "section": "5.1 Inclusive science communication",
+    "text": "5.1 Inclusive science communication\nThis Inclusive Science Communication Starter Kit created and curated by Dr. Sunshine Menezes, the ED of the Metcalf Institute at URI, covers a wide range of topics related to inclusive science communication, education, and public engagement with STEM topics. We suggest you take a look!\nIndividual mentoring plans: Gavin will work with each of you to develop your individual mentoring plan that serves to ensure your time in the Fay lab progresses your short, medium, and long-term goals. This is a useful planning document that assists in aligning expectations. Graduate students will revisit the mentoring plan during an individual meeting with Gavin at the beginning of each semester & the start of summer. Other lab members will revisit these at appropriate time scales (e.g. every 6 months).\nA template for these, with thanks to @duffy_ma can be found here.\nIn addition, it is useful to have broad (for all lab members) and specific (i.e., grad students, research staff, etc.) expectations of our roles clarified. These are outlined below.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Expectations & Communication</span>"
+    ]
+  },
+  {
+    "objectID": "05-expectations.html#working-hours",
+    "href": "05-expectations.html#working-hours",
+    "title": "4  Expectations & Communication",
+    "section": "5.2 Working hours",
+    "text": "5.2 Working hours\nGavin generally does not hold people to working a fixed schedule, or to be in the office for a certain schedule. As adults, we should all set the working schedule that is the right fit for us, and it is likely that what this ‘fit’ is will change over the course of the time you are in the lab. Depending on the nature of your appointment, there may be specific hours that will need to be worked and you should work with your main collaborator to outline these.\nGavin generally does not work evenings or on weekends, and does not expect that people in the lab are available at these times. Lab members should also not expect others to be available during these times.\nGraduate students are generally funded on annual research assistantship (RA) stipends. The RA contracts state that this stipend is for 20 hrs of work per week during the academic year and 40 hrs per week during summer to support full time study in the academic program. Most usually, students on RAships are being paid from a research grant where the focus of the grant is the topic the student is working on for their thesis research, so there is overlap here. We believe that training to do the research is part of the job, so this would include courses and additional time to read/learn methods, software too. Some people find that counting ‘billable hours’ is productive for them as it helps them keep accountable to themselves. Others do not find this method useful. Regularly assess what works best for you.\nFull time is enough, and we do not expect team members to work nights and weekends, though do not enforce a particular working hours schedule because students should feel flexible enough to create a work schedule that works for them. Lab members should not expect others to be available during evenings and weekends. There is value to interacting with others as part of your work, and we do expect you will be available during normal working hours for at least some of the time during the week. We also recognize that there will occasionally be times where there is a need to work more to meet a deadline, but this should be the exception - an expectation of overwork is not to be normalized.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Expectations & Communication</span>"
     ]
   },
   {
     "objectID": "05-expectations.html#email",
     "href": "05-expectations.html#email",
-    "title": "4  Expectations",
-    "section": "4.2 Email",
-    "text": "4.2 Email\nIn the lab, we communicate via email. You should therefore check your email at least once a day during the normal work week. We also make use of Google Docs and issues on GitHub to record institutional knowledge and hold conversations regarding research tasks. Note that being available does not mean that you are available 24/7 - this is not expected. Do not expect responses to emails after regular business hours on weekdays, or on weekends. However, because we recognize that lab members should be able to create a working schedule that is right for them, lab members should not be penalized for sending communication during these times.",
+    "title": "4  Expectations & Communication",
+    "section": "5.3 Email",
+    "text": "5.3 Email\nIn the lab, we communicate via email. You should therefore check your email at least once a day during the normal work week. We also make use of Google Docs and issues on GitHub to record institutional knowledge and hold conversations regarding research tasks. Note that being available does not mean that you are available 24/7 - this is not expected. Do not expect responses to emails after regular business hours on weekdays, or on weekends. However, because we recognize that lab members should be able to create a working schedule that is right for them, lab members should not be penalized for sending communication during these times.",
     "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Expectations</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Expectations & Communication</span>"
     ]
   },
   {
     "objectID": "05-expectations.html#attendance-at-regularly-scheduled-events",
     "href": "05-expectations.html#attendance-at-regularly-scheduled-events",
-    "title": "4  Expectations",
-    "section": "4.3 Attendance at regularly scheduled events",
-    "text": "4.3 Attendance at regularly scheduled events\nAttendance is expected at:\n\nDepartmental seminars\n\nWeekly lab meetings / quantfish woRkshops\n\nIndividual meetings with Gavin to discuss and work on your research\n\nSMAST thesis and proposal defenses\n\nSMAST all hands meetings / start-and-end of semester events\n\nAnnual UMass Intercampus Marine Science graduate research symposium",
+    "title": "4  Expectations & Communication",
+    "section": "5.4 Attendance at regularly scheduled events",
+    "text": "5.4 Attendance at regularly scheduled events\nAttendance is expected at:\n\nDepartmental seminars\n\nWeekly lab meetings / quantfish woRkshops\n\nIndividual meetings with Gavin to discuss and work on your research\n\nSMAST thesis and proposal defenses\n\nSMAST all hands meetings / start-and-end of semester events\n\nAnnual UMass Intercampus Marine Science graduate research symposium",
     "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Expectations</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Expectations & Communication</span>"
     ]
   },
   {
     "objectID": "05-expectations.html#outreach",
     "href": "05-expectations.html#outreach",
-    "title": "4  Expectations",
-    "section": "4.4 Outreach",
-    "text": "4.4 Outreach\nWe share our learning and time with others beyond our lab, knowing that this builds community and ultimately improves both the quality and impact of our science. This doesn’t mean individuals do everything, however. We take on leadership roles within SMAST and the university, are supportive of others in our community during their milestones, actively participate in SMAST events (e.g. the IMS graduate research symposium), and perform outreach. Ask others in the lab about activities they are part of, and work with Gavin when crafting your mentoring plan to identify outreach strategy that meshes well with your goals.",
+    "title": "4  Expectations & Communication",
+    "section": "5.5 Outreach",
+    "text": "5.5 Outreach\nWe share our learning and time with others beyond our lab, knowing that this builds community and ultimately improves both the quality and impact of our science. This doesn’t mean individuals do everything, however. We take on leadership roles within SMAST and the university, are supportive of others in our community during their milestones, actively participate in SMAST events (e.g. the IMS graduate research symposium), and perform outreach. Ask others in the lab about activities they are part of, and work with Gavin when crafting your mentoring plan to identify outreach strategy that meshes well with your goals.",
     "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Expectations</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Expectations & Communication</span>"
     ]
   },
   {
     "objectID": "05-expectations.html#expectations-for-the-pi",
     "href": "05-expectations.html#expectations-for-the-pi",
-    "title": "4  Expectations",
-    "section": "4.5 Expectations for the PI",
-    "text": "4.5 Expectations for the PI\nGavin (as PI) will (at a minimum) provide:\n\nTechnical support for analysis (e.g., access to computing, training on techniques)\n\nPositive feedback & constructive criticism on work\n\nProfessional career support\n\nSupport for non-technical aspects of making career progress\n\nRegular meetings (every two weeks) to discuss work & maintain progress on goals\n\nProvide clear and honest appraisal of your funding situation",
+    "title": "4  Expectations & Communication",
+    "section": "5.6 Expectations for the PI",
+    "text": "5.6 Expectations for the PI\nGavin (as PI) will (at a minimum) provide:\n\nTechnical support for analysis (e.g., access to computing, training on techniques)\n\nPositive feedback & constructive criticism on work\n\nProfessional career support\n\nSupport for non-technical aspects of making career progress\n\nRegular meetings (every two weeks) to discuss work & maintain progress on goals\n\nProvide clear and honest appraisal of your funding situation",
     "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Expectations</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Expectations & Communication</span>"
     ]
   },
   {
     "objectID": "05-expectations.html#graduate-students",
     "href": "05-expectations.html#graduate-students",
-    "title": "4  Expectations",
-    "section": "4.6 Graduate students",
-    "text": "4.6 Graduate students\nYou are responsible for your degree. This means you need to stay on top of program and university deadlines, requirements, etc. See Chapter @ref(umassd-resources) & Chapter @ref(smast-resources) for links to resources.\nBefore registering for each semester, you are required to meet with your advisor (Gavin) to review your tracking sheet (SMAST academic milestone document) and discuss plans for the forthcoming semester (classes, activities, etc.).\nCourse of study: Work with Gavin when crafting and revisiting your individual mentoring plans to identify classes that you will take during your academic program. Look beyond those offered at SMAST to include elsewhere at UMassD, the UMass system, and also at other institutions (consider the value of a semester exchange). A list of classes that lab members have taken, and suggested course of study schedule for Fay lab grad students can be found in Chapter @ref(courses).\nWe schedule regular individual meetings with Gavin throughout the year. At a minimum during the semester these will take place every two weeks, although there may be times when more regular meetings are needed. Meetings are a chance for you to get focused time with Gavin to discuss and work on your research. Thus they are your time, not Gavin’s. Come with an agenda with a list of things that you want to accomplish and work on during that time.\nWe share our research at local, national, and international meetings, and publish our findings in the scientific literature. Gavin strives to provide financial support for grad students to attend at least one major conference per year. You should expect to give a presentation (a poster or a talk) on your work at these.\n\n4.6.1 Funding\nGavin does not typically accept students into the lab without being able to guarantee at least 2 years of full funding. Students are encouraged to seek and apply for extramural funding to support their work. This includes scholarships and fellowships to pay for salary, but also smaller grants for travel, workshop attendance, or research costs. There are many opportunities out there, particularly for students. Some resources are outlined in Chapter @ref(funding).",
+    "title": "4  Expectations & Communication",
+    "section": "5.7 Graduate students",
+    "text": "5.7 Graduate students\nYou are responsible for your degree. This means you need to stay on top of program and university deadlines, requirements, etc. See Chapter @ref(umassd-resources) & Chapter @ref(smast-resources) for links to resources.\nBefore registering for each semester, you are required to meet with your advisor (Gavin) to review your tracking sheet (SMAST academic milestone document) and discuss plans for the forthcoming semester (classes, activities, etc.).\nCourse of study: Work with Gavin when crafting and revisiting your individual mentoring plans to identify classes that you will take during your academic program. Look beyond those offered at SMAST to include elsewhere at UMassD, the UMass system, and also at other institutions (consider the value of a semester exchange). A list of classes that lab members have taken, and suggested course of study schedule for Fay lab grad students can be found in Chapter @ref(courses).\nWe schedule regular individual meetings with Gavin throughout the year. At a minimum during the semester these will take place every two weeks, although there may be times when more regular meetings are needed. Meetings are a chance for you to get focused time with Gavin to discuss and work on your research. Thus they are your time, not Gavin’s. Come with an agenda with a list of things that you want to accomplish and work on during that time.\nWe share our research at local, national, and international meetings, and publish our findings in the scientific literature. Gavin strives to provide financial support for grad students to attend at least one major conference per year. You should expect to give a presentation (a poster or a talk) on your work at these.\n\n5.7.1 Funding\nGavin does not typically accept students into the lab without being able to guarantee at least 2 years of full funding. Students are encouraged to seek and apply for extramural funding to support their work. This includes scholarships and fellowships to pay for salary, but also smaller grants for travel, workshop attendance, or research costs. There are many opportunities out there, particularly for students. Some resources are outlined in Chapter @ref(funding).",
     "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Expectations</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Expectations & Communication</span>"
     ]
   },
   {
     "objectID": "05-expectations.html#undergraduate-students",
     "href": "05-expectations.html#undergraduate-students",
-    "title": "4  Expectations",
-    "section": "4.7 Undergraduate students",
-    "text": "4.7 Undergraduate students\nYou will most likely be working with one of the lab’s research team as your primary research supervisor. The grad student or postdoc you are working with on your project will be your primary source of contact and you should work with them to establish and define your work schedule, protocols for your work, and to ensure you have the necessary equipment to perform your work tasks.\nAlthough the grad student / postdoc is your primary contact, always feel like you can reach out to both Gavin as lab PI. We are excited to help you use your position in the lab to further your career goals and want to work with you to help you achieve them.\nIf you are an hourly worker (either federal work study or grant supported) then it is critical that you complete your timesheets through HR Direct with your hours worked, so that you can get paid. Please submit your electronic timesheet each week by noon on Friday, to allow time for Gavin to approve. Alert your research supervisor AND Gavin as soon as possible if there are any complications with regard to pay. We want you to be compensated for your work in a timely fashion.",
+    "title": "4  Expectations & Communication",
+    "section": "5.8 Undergraduate students",
+    "text": "5.8 Undergraduate students\nYou will most likely be working with one of the lab’s research team as your primary research supervisor. The grad student or postdoc you are working with on your project will be your primary source of contact and you should work with them to establish and define your work schedule, protocols for your work, and to ensure you have the necessary equipment to perform your work tasks.\nAlthough the grad student / postdoc is your primary contact, always feel like you can reach out to both Gavin as lab PI. We are excited to help you use your position in the lab to further your career goals and want to work with you to help you achieve them.\nIf you are an hourly worker (either federal work study or grant supported) then it is critical that you complete your timesheets through HR Direct with your hours worked, so that you can get paid. Please submit your electronic timesheet each week by noon on Friday, to allow time for Gavin to approve. Alert your research supervisor AND Gavin as soon as possible if there are any complications with regard to pay. We want you to be compensated for your work in a timely fashion.",
     "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Expectations</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Expectations & Communication</span>"
     ]
   },
   {
     "objectID": "05-expectations.html#postdoctoral-researchers",
     "href": "05-expectations.html#postdoctoral-researchers",
-    "title": "4  Expectations",
-    "section": "4.8 Postdoctoral researchers",
-    "text": "4.8 Postdoctoral researchers\nPostdocs are independent researchers and likely will have significant collaboration with researchers at other institutions as part of their research and position. Postdocs in the lab may also be sharing time between SMAST and another opportunity.\nIn general, postdocs are expected to:\n\nBe present and involved in lab meetings, workshops, campus seminars, and conferences.\n\nProvide mentorship, technical support, and assistance to other lab members\n\nCommunicate both successes and sticking points on a regular basis with the PI\n\nWork independently and collaboratively\n\nParticipate in professional development opportunities\n\nLead and assist in designated research projects\n\nDevelop and submit proposals to fund future research\n\nOn day 1 of his postdoc at NOAA NEFSC, Gavin’s postdoc advisor said “Your first job is to look for your next job”. While a postdoctoral position is a scienctific research position, it is also a training opportunity and a step to something else, and a full-time permanent position beats a postdoc. Do not feel bad or awkward about pursuing (and taking) employment opportuntities, and also training opportunities that help you move toward that next step. We want you to succeed!\n[As benefited employees at UMass Dartmouth, postdocs are able to enroll in a limited amount of graduate coursework as part of their benefits package. Talk with Gavin about this.]\nPostdocs will likely have active roles on advisory working groups or other professional service roles. If opportunities are not immediately apparent through your funded research, then Gavin can help strategize about where is a useful space to target your involvement.",
+    "title": "4  Expectations & Communication",
+    "section": "5.9 Postdoctoral researchers",
+    "text": "5.9 Postdoctoral researchers\nPostdocs are independent researchers and likely will have significant collaboration with researchers at other institutions as part of their research and position. Postdocs in the lab may also be sharing time between SMAST and another opportunity.\nIn general, postdocs are expected to:\n\nBe present and involved in lab meetings, workshops, campus seminars, and conferences.\n\nProvide mentorship, technical support, and assistance to other lab members\n\nCommunicate both successes and sticking points on a regular basis with the PI\n\nWork independently and collaboratively\n\nParticipate in professional development opportunities\n\nLead and assist in designated research projects\n\nDevelop and submit proposals to fund future research\n\nOn day 1 of his postdoc at NOAA NEFSC, Gavin’s postdoc advisor said “Your first job is to look for your next job”. While a postdoctoral position is a scienctific research position, it is also a training opportunity and a step to something else, and a full-time permanent position beats a postdoc. Do not feel bad or awkward about pursuing (and taking) employment opportuntities, and also training opportunities that help you move toward that next step. We want you to succeed!\n[As benefited employees at UMass Dartmouth, postdocs are able to enroll in a limited amount of graduate coursework as part of their benefits package. Talk with Gavin about this.]\nPostdocs will likely have active roles on advisory working groups or other professional service roles. If opportunities are not immediately apparent through your funded research, then Gavin can help strategize about where is a useful space to target your involvement.",
     "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Expectations</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Expectations & Communication</span>"
     ]
   },
   {
     "objectID": "05-expectations.html#research-staff",
     "href": "05-expectations.html#research-staff",
-    "title": "4  Expectations",
-    "section": "4.9 Research staff",
-    "text": "4.9 Research staff\nMuch like post-docs, research staff operate as independent and collaborative researchers on assigned projects. As these positions are often working directly alongside your mentor/direct collaborator on particular lab projects, meetings may be more frequent than those with others in the lab. Weekly meetings should have clear agendas, and can often be used as collaborative working time to make progress on specific tasks.\nIn general, staff are expected to:\n\nBe present and involved in lab meetings, workshops, campus seminars, and conferences\n\nProvide technical support and assistance to other lab members\nCommunicate both successes and sticking points on a regular basis with PI\nWork independently and collaboratively\nLead and assist in designated research projects\nParticipate in professional development opportunities (i.e., workshops, conferences, submitting previous position manuscripts [without detracting from new position])\nSeek and pursue new funding opportunities when appropriate (this will likely be dependent on your timeline)\nProduce expected output from assigned grants\nBe flexible! Additional projects may be assigned to give additional funding for your position\n\nServe as a role model and go-to resource for other members of the lab\n\nResearch staff positions may be somewhat flexible in scope. For example, the position may include some lab management, leadership, and communication responsibilities. Exact set of responsibilities and duties will be clearly defined in your position description and expectations agreed on in your work plan.",
+    "title": "4  Expectations & Communication",
+    "section": "5.10 Research staff",
+    "text": "5.10 Research staff\nMuch like post-docs, research staff operate as independent and collaborative researchers on assigned projects. As these positions are often working directly alongside your mentor/direct collaborator on particular lab projects, meetings may be more frequent than those with others in the lab. Weekly meetings should have clear agendas, and can often be used as collaborative working time to make progress on specific tasks.\nIn general, staff are expected to:\n\nBe present and involved in lab meetings, workshops, campus seminars, and conferences\n\nProvide technical support and assistance to other lab members\nCommunicate both successes and sticking points on a regular basis with PI\nWork independently and collaboratively\nLead and assist in designated research projects\nParticipate in professional development opportunities (i.e., workshops, conferences, submitting previous position manuscripts [without detracting from new position])\nSeek and pursue new funding opportunities when appropriate (this will likely be dependent on your timeline)\nProduce expected output from assigned grants\nBe flexible! Additional projects may be assigned to give additional funding for your position\n\nServe as a role model and go-to resource for other members of the lab\n\nResearch staff positions may be somewhat flexible in scope. For example, the position may include some lab management, leadership, and communication responsibilities. Exact set of responsibilities and duties will be clearly defined in your position description and expectations agreed on in your work plan.",
     "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Expectations</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Expectations & Communication</span>"
     ]
   },
   {
@@ -220,73 +240,23 @@
     ]
   },
   {
-    "objectID": "09-communication.html",
-    "href": "09-communication.html",
-    "title": "7  Communication",
-    "section": "",
-    "text": "7.1 Inclusive science communication\nAcknowledge communication and engage with others about your work. This includes communication with the lab team, your peers, collaborators, and also communicating your work to others. If someone works on something for you or provides you with feedback on your work, thank them and engage with them on their feedback. Our science improves by engaging with conversations about your work. View such interactions as opportunities to be collaborative rather than evaluative. Chances are if someone asks you questions about your work it is because they are interested in your science.\nAcknowledging communication and thanking others for their work is part of the profession, and it also helps collaboration by continuing conversation.\nWhile our philosophy applies, in that you shouldn’t feel like you have to be on email all the time, don’t let you email inbox become a black hole where questions / thoughts get sucked into and no response emerges.\nWe also believe in being intentional in communicating our work. While publishing and conference presentations are thought of as the standard forms in which science is disseminated, there are a number of ways in which you can communicate your work with others, depending on your audiences and chosen levels of engagement. You should always invest in these at the level that is of interest to you. Here are some things we recommend as members of our team.\nThis Inclusive Science Communication Starter Kit created and curated by Dr. Sunshine Menezes, the ED of the Metcalf Institute at URI, covers a wide range of topics related to inclusive science communication, education, and public engagement with STEM topics. We suggest you take a look!",
-    "crumbs": [
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Communication</span>"
-    ]
-  },
-  {
-    "objectID": "09-communication.html#curriculum-vitae",
-    "href": "09-communication.html#curriculum-vitae",
-    "title": "7  Communication",
-    "section": "7.2 Curriculum Vitae",
-    "text": "7.2 Curriculum Vitae\nKeep your CV up to date. We share our CVs within the group in this Google Drive folder, both to give each other ideas about what to include, but also having these in one place makes it easier for Gavin and others to reference information from them when needed.\nHere is a link to a lab-chat issue on CV building based on a 05/05/2020 lab meeting.\n\n7.2.1 Google Scholar profiles\nHaving a Google Scholar profile is a very easy way to curate your web presence and have a place where people can find you and your published papers and reports.\nWe recommend everyone sets up a Google Scholar profile as soon as they have a paper or technical report. It takes about 5-10 minutes to set up, and one advantage is that Google Scholar self-updates and will add your papers and citations as you publish and people use your work. This is a really easy step to creating a web presence without having to set up a website.",
-    "crumbs": [
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Communication</span>"
-    ]
-  },
-  {
-    "objectID": "09-communication.html#personal-websites",
-    "href": "09-communication.html#personal-websites",
-    "title": "7  Communication",
-    "section": "7.3 Personal Websites",
-    "text": "7.3 Personal Websites\nWhy have your own website?\n\nPeople will Google you. They might as well see what you want them to.\nGive people an easy way to find you and your work.\n\nOne way to do this is a personal website. This doesn’t have to be extensive, but can be a good way to curate your web presence.\nThere are heaps of tools out there to create and publish websites. Our recommendation is to choose something that it is easy to update, and fun / interesting for you to use. Many options are free.\nSome options for creating sites include: GoogleSites, Weebly, Squarespace, WordPress, R Markdown, GitHub.\nWhat should you include?\nUltimately this is up to you and how you would like to present yourself and your work. But some common things you could include are: not an exhaustive list\n\nBioSketch\nResearch interests/overview\nProjects\nPublications\nCV\nBlog posts\nContact info\n\nAn example website (though many amazing others exist and you should check those out): Ashleigh’s webpage using the free version of Weebly",
-    "crumbs": [
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Communication</span>"
-    ]
-  },
-  {
-    "objectID": "09-communication.html#social-media",
-    "href": "09-communication.html#social-media",
-    "title": "7  Communication",
-    "section": "7.4 Social Media",
-    "text": "7.4 Social Media\nAs you know, there are many social media platforms, and many (all?) of these are being used in some way for science communication. This includes but not limited to:\n\nInstagram\nFacebook\nLinkedIn\nTikTok\nTwitter\nYoutube\nResearchgate\n\nAll have a different purpose and type of engagement. They can be used for interacting with others about science, learning about new research and papers, finding out about jobs and fellowships, learning and discussing methods, discussing topics about how we do science, professional development, mental health and expectations around science and graduate school, and is a great venue for bringing ones whole self to the science. Think deliberately about how (and if) you want to use these tools. Using social media as part of your science communication portfolio can be useful and is popular, but it is not a requirement to be a successful scientist.\nHere are some great resources on how social media can be used to more effectively communicate science, and how it can even be used to help better inform fisheries research and management.",
-    "crumbs": [
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Communication</span>"
-    ]
-  },
-  {
-    "objectID": "09-communication.html#posit-cloud",
-    "href": "09-communication.html#posit-cloud",
-    "title": "7  Communication",
-    "section": "7.5 Posit Cloud",
-    "text": "7.5 Posit Cloud\nPosit Cloud is a web-based interface for working in open-source programming languages such as R and Python. It allows you to write, access, analyze, and share code in your browser, as well as access learning materials such as coding cheatsheets and workshops.",
-    "crumbs": [
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Communication</span>"
-    ]
-  },
-  {
-    "objectID": "09-communication.html#contributing-to-regional-publications",
-    "href": "09-communication.html#contributing-to-regional-publications",
-    "title": "7  Communication",
-    "section": "7.6 Contributing to regional publications",
-    "text": "7.6 Contributing to regional publications\n[more to come on engaging with our local press, etc.]",
-    "crumbs": [
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Communication</span>"
-    ]
-  },
-  {
     "objectID": "10-GAIA.html",
     "href": "10-GAIA.html",
     "title": "PSD Whale Ecology Branch Lab Manual",
     "section": "",
     "text": "Let’s put some GAIA basic info here!",
     "crumbs": [
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>10-GAIA.html</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>10-GAIA.html</span>"
+    ]
+  },
+  {
+    "objectID": "14-mortality_serious_injury.html",
+    "href": "14-mortality_serious_injury.html",
+    "title": "8  Aerial Surveys",
+    "section": "",
+    "text": "We find lots of animals from the air!",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Aerial Surveys</span>"
     ]
   },
   {
