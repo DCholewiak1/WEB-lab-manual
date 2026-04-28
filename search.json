@@ -54,7 +54,7 @@
     "href": "01-intro-how-we-work.html#references",
     "title": "2  Introduction",
     "section": "2.5 References",
-    "text": "2.5 References\n\n\n\n\nLowndes, Julia S. Stewart, Benjamin D. Best, Courtney Scarborough, Jamie C. Afflerbach, Melanie R. Frazier, Casey C. O’Hara, Ning Jiang, and Benjamin S. Halpern. 2017. “Our Path to Better Science in Less Time Using Open Data Science Tools.” Nature Ecology & Evolution 1 (6). https://doi.org/10.1038/s41559-017-0160.\n\n\nWilson, Greg, Jennifer Bryan, Karen Cranston, Justin Kitzes, Lex Nederbragt, and Tracy K. Teal. 2017. “Good Enough Practices in Scientific Computing.” Edited by Francis Ouellette. PLOS Computational Biology 13 (6): e1005510. https://doi.org/10.1371/journal.pcbi.1005510.",
+    "text": "2.5 References\n\n\n\n\nLowndes, Julia S. Stewart, Benjamin D. Best, Courtney Scarborough, et al. 2017. “Our Path to Better Science in Less Time Using Open Data Science Tools.” Nature Ecology & Evolution 1 (6). https://doi.org/10.1038/s41559-017-0160.\n\n\nWilson, Greg, Jennifer Bryan, Karen Cranston, Justin Kitzes, Lex Nederbragt, and Tracy K. Teal. 2017. “Good Enough Practices in Scientific Computing.” PLOS Computational Biology 13 (6): e1005510. https://doi.org/10.1371/journal.pcbi.1005510.",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introduction</span>"
     ]
@@ -244,7 +244,7 @@
     "href": "09-mortality_serious_injury.html",
     "title": "7  Serious Injury and Mortality Determination",
     "section": "",
-    "text": "We track all events in which large whales are seriously injured or killed by human activities.\n(Allison please write up a paragraph or few here! )\n\n\n\nouch",
+    "text": "We track all events in which large whales are seriously injured or killed by human activities as part of the MMPA requirements. We gather annual large whale data events - both stranding and entanglement - from the US and Canadian Atlantic coast.\n\n\n\nouch",
     "crumbs": [
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>Serious Injury and Mortality Determination</span>"
     ]
